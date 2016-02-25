@@ -1,3 +1,5 @@
+### Notes: this repo is forked from [webpack][1] to resolve the issue happened in [issue][2]
+
 # compression plugin for webpack
 
 ## Usage
@@ -36,3 +38,7 @@ Option Arguments for Zopfli (see [node-zopfli](https://github.com/pierreingleber
 ## License
 
 MIT (http://www.opensource.org/licenses/mit-license.php)
+
+
+[1]: https://github.com/webpack/compression-webpack-plugin
+[2]: https://github.com/webpack/compression-webpack-plugin/issues/16
